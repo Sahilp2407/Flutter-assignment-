@@ -232,8 +232,8 @@ flutter test
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Sahilp2407/assignments.git
-cd assignments
+git clone https://github.com/Sahilp2407/Flutter-assignment-.git
+cd Flutter-assignment-
 ```
 
 ### Running Dart Scripts
